@@ -27,7 +27,7 @@
 
 # Sample chart
 
-##  I plan to use several cahrt and graphs but I'm currently just experimenting with a few ideas.  The treemap is merely an idea at this point.  I may use heat maps or something similar for the crime-by-location portions.  
+##  I plan to use several charts and graphs but I'm currently just experimenting with a few ideas.  The treemap is merely an idea at this point.  I may use heat maps or something similar for the crime-by-location portions.  
 
 #
 
