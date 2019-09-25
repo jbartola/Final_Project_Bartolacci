@@ -10,17 +10,17 @@
 
 # Basic Outline
 
-## Complaint Trending
+## Complaint trending
 
 ## Number of complaints received
 
 ## Top countries that victimize US Citizens
 
-## Crime numbers by type
+## Cyber crime numbers by type
 
-##  Crime numbers by loss amount
+##  Cyber crime numbers by loss amount
 
-##  Crime numbers by US location
+##  Cyber crime numbers by US location
 
 # Sample chart
 
