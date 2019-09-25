@@ -2,7 +2,7 @@
 
 # The Cost of Fraud
 
-## Fraud costs consumers and organizations billions of dollars per year.  The advent of the internet caused an explosion in technology but also caused an explosion with cyber enabled crime.  With each new technology, there will be a nefarious person there to exploit it.  The FBI and The IC3 (Internet Crime Complaint Center) compiles annual data regarding cybercrime.  I'll use the data complied in the 2018 Ic3 report to generate data visualizations for this project.
+## Fraud costs consumers and organizations billions of dollars per year.  The advent of the internet caused an explosion in technology but also caused an explosion with cyber enabled crime.  With each new technology, there will be a nefarious person there to exploit it.  The FBI and The IC3 (Internet Crime Complaint Center) compiles annual data regarding cybercrime.  I'll use the data complied in the 2018 IC3 report to generate data visualizations for this project.
 
 ##  I plan to use various tools such as Rawgraphs and complete the final project with Shorthand.
 
