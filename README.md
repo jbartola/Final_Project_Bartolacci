@@ -60,9 +60,9 @@
 
 # Findings
 
-# Federal Law Enforcement Investigator – Overall, the charts and graphs are really good.  The original report is hard to read an understand and sometimes just contains a list or table of the data without any context.  Could you create a chart that details BEC’s over time with a combination of the last 4 or 5 annual reports?  We don’t have that.  
-# Cyber Fraud Intelligence Analysts – Compared to the original IC3 data, this is much easier to understand and to read.  I’m not a fan of pie graphs but the bar charts seem to really work.  What about more color?  Could you make each line or bar a different color or would you keep everything a common theme of blue?  Just a thought.  
-# Bank Fraud Investigators – This is much easier to analyze and digest.  What about making the charts 3D?  Can you add a heart map?  What about making a one-pager with all of the relevant data such as an infographic?  
+## Federal Law Enforcement Investigator – Overall, the charts and graphs are really good.  The original report is hard to read an understand and sometimes just contains a list or table of the data without any context.  Could you create a chart that details BEC’s over time with a combination of the last 4 or 5 annual reports?  We don’t have that.  
+## Cyber Fraud Intelligence Analysts – Compared to the original IC3 data, this is much easier to understand and to read.  I’m not a fan of pie graphs but the bar charts seem to really work.  What about more color?  Could you make each line or bar a different color or would you keep everything a common theme of blue?  Just a thought.  
+## Bank Fraud Investigators – This is much easier to analyze and digest.  What about making the charts 3D?  Can you add a heart map?  What about making a one-pager with all of the relevant data such as an infographic?  
 
 
 # Sample Charts for the Final Project
