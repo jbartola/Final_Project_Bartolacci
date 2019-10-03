@@ -58,13 +58,15 @@
 ### Any questions for me?
 ## Thank you for your time.  
 
-#Sample Charts for the Final Project
+# Sample Charts for the Final Project
 
 # 
 
 <iframe title="IC3 Complaints and Losses by Year" aria-label="Column Chart" id="datawrapper-chart-4KPiM" src="//datawrapper.dwcdn.net/4KPiM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="526"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 # BEC Faud is on the rise and is now the most reported interent crime
+
+##  Here's my main theme - internet is on the rise and fraudsters use whatever means necessary to perpetrate thier crimes...this is the story that I'm developing.
 
 #
 
