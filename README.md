@@ -37,7 +37,7 @@
 
 ## Sample Markup Sketch
 
-# https://github.com/jbartola/Final_Project_Bartolacci/blob/master/New%20Mockup%201.png
+## https://github.com/jbartola/Final_Project_Bartolacci/blob/master/New%20Mockup%201.png
 
 
 ## User research Protocol
