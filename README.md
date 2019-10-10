@@ -83,7 +83,9 @@
 
 # Summary
 
-# I basically took all of the data collected by the IC3 that was published in their 2018 annual report and free-texted the data points into a spreadsheet.  I had the build a workable data set and I did this manually.  Tabula would not properly extract the data, so I completed this manually.  One of the charts, “BEC Over Time” was constructed using several years of published data by the IC3.  I built the datasets in Excel and used Datawrapper and a few Excel tools to build  and label the charts. 
+## I basically took all of the data collected by the IC3 that was published in their 2018 annual report and free-texted the data points into a spreadsheet.  I had the build a workable data set and I did this manually.  Tabula would not properly extract the data, so I completed this manually.  One of the charts, “BEC Over Time” was constructed using several years of published data by the IC3.  I built the datasets in Excel and used Datawrapper and a few Excel tools to build  and label the charts. 
+
+## I took the appraoch of "less is more".  I wanted to keep the orignal data but present it in a simple, clean format.  The FBI and the IC3 will not allow for a lot of bells and whistels.  Just the facts.... right?  The charts are simple for a reason - littel left for interpretation, straight forward reporting on the crime statistics.  
 
 # Sample Charts for the Final Project
 
