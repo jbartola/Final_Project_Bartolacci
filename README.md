@@ -2,13 +2,13 @@
 
 # Part 1
 
-# The Cost of Fraud
+# The Cost of Cyber Enabled Fraud - The 2018 IC3 Report
 
-## Fraud costs consumers and organizations billions of dollars per year.  The advent of the internet caused an explosion in technology but also caused an explosion with cyber enabled crime.  With each new technology, there will be a nefarious person there to exploit it.  The FBI and The IC3 (Internet Crime Complaint Center) compiles annual data regarding cybercrime.  I'll use the data complied in the 2018 IC3 report to generate data visualizations for this project.
+### Fraud costs consumers and organizations billions of dollars per year.  The advent of the internet caused an explosion in technology but also caused an explosion with cyber enabled crime.  With each new technology, there will be a nefarious person there to exploit it.  The FBI and The IC3 (Internet Crime Complaint Center) compiles annual data regarding cybercrime.  I'll use the data complied in the 2018 IC3 report to generate data visualizations for this project.
 
-##  I plan to use various tools such as Rawgraphs and complete the final project with Shorthand.
+###  I plan to use various tools such as Rawgraphs and complete the final project with Shorthand.
 
-## I plan to demonstrate the immense problem with cyber enabled crime, citing relvant facts and figures to bring awareness to the class.  I'll also have a call to action to become more vigilant in every aspect of our lives in order to protect ourselves from cyber enabled crime and fraud.
+### I plan to demonstrate the immense problem with cyber enabled crime, citing relvant facts and figures to bring awareness to the class.  I'll also have a call to action to become more vigilant in every aspect of our lives in order to protect ourselves from cyber enabled crime and fraud.
 
 ### https://pdf.ic3.gov/2018_IC3Report.pdf (data set that is publicly available)
 
