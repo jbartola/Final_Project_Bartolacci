@@ -57,11 +57,11 @@
 ### Do the participants understand the annual data reported?
 ### What does the data say and mean to them?
 ### What is the interest level of this data of the participants? 
-## Method – 10 to 15 minute in person interviews.  Some will be one on one while groups will also be utilized.  
+### Method – 10 to 15 minute in person interviews.  Some will be one on one while groups will also be utilized.  
 
-## Interview Script – Introduction of IC3.  The goal today is to get your thoughts and feedback on IC3’s 2018 annual report data and some of the related visualizations that I’ve developed.  Just give me you honest opinion and let me know what you think. 
+### Interview Script – Introduction of IC3.  The goal today is to get your thoughts and feedback on IC3’s 2018 annual report data and some of the related visualizations that I’ve developed.  Just give me you honest opinion and let me know what you think. 
 
-## The feedback that you provide will be used for a project that I’m working on at Carnegie Mellon University and all responses will be kept anonymous. I’ll provide a hard copy of the data, the report, and related sketches. 
+### The feedback that you provide will be used for a project that I’m working on at Carnegie Mellon University and all responses will be kept anonymous. I’ll provide a hard copy of the data, the report, and related sketches. 
 
 ## Questions – 
 ### What is your title, role and background?
