@@ -13,21 +13,21 @@
 ### https://pdf.ic3.gov/2018_IC3Report.pdf (data set that is publicly available)
 
 
-# Basic Outline
+### Basic Outline
 
-## Complaint trending
+### Complaint trending
 
-## Number of complaints received
+### Number of complaints received
 
-## Top countries that victimize US Citizens
+### Top countries that victimize US Citizens
 
-## Cyber crime numbers by type
+### Cyber crime numbers by type
 
-##  Cyber crime numbers by loss amount
+###  Cyber crime numbers by loss amount
 
-##  Cyber crime numbers by US location
+###  Cyber crime numbers by US location
 
-# Sample chart
+# Sample chart(s)
 
 ##  I plan to use several charts and graphs but I'm currently just experimenting with a few ideas.  The treemap is merely an idea at this point.  I may use heat maps or something similar for the crime-by-location portions.  
 
@@ -43,17 +43,25 @@
 
 
 ## User research Protocol
-## Target Audience – law enforcement, intelligence analysts, policy makers, law makers, bank investigators, fraud examiners, and the general public interested in financial crimes.  
-## Approach to identify representatives – in person interviews with federal law enforcement agents and analysts and bank investigators.
-## Interview – Goals and Questions
-## Background – IC3 (Internet Crime Complaint Center) collects information regarding cyber enabled crime and began collecting data in 2000.  Cyber enabled or internet crime includes ID theft, SPAM, data breaches and business email compromises (BEC) to name a few.  IC3 provides a method and channel for the public to report cyber enabled crime.  Each year, IC3 publishes an annual report that aggregates and highlights the data provided by the public.  
-## Metrics – IC3 Complaint Stats
+### Target Audience – law enforcement, intelligence analysts, policy makers, law makers, bank investigators, fraud examiners, and the general public interested in financial crimes.  
+
+### Approach to identify representatives – in person interviews with federal law enforcement agents and analysts and bank investigators.
+
+### Interview – Goals and Questions
+
+### Background – IC3 (Internet Crime Complaint Center) collects information regarding cyber enabled crime and began collecting data in 2000.  Cyber enabled or internet crime includes ID theft, SPAM, data breaches and business email compromises (BEC) to name a few.  IC3 provides a method and channel for the public to report cyber enabled crime.  Each year, IC3 publishes an annual report that aggregates and highlights the data provided by the public.  
+
+### Metrics – IC3 Complaint Stats
+
 ### Do the participants understand the annual data reported?
 ### What does the data say and mean to them?
 ### What is the interest level of this data of the participants? 
 ## Method – 10 to 15 minute in person interviews.  Some will be one on one while groups will also be utilized.  
-## Interview Script – Introduction of IC3.  The goal today is to get your thoughts and feedback on IC3’s 2018 annual report data and some of the related visualizations that I’ve developed.  Just give me you honest opinion and let me know what you think.  
+
+## Interview Script – Introduction of IC3.  The goal today is to get your thoughts and feedback on IC3’s 2018 annual report data and some of the related visualizations that I’ve developed.  Just give me you honest opinion and let me know what you think. 
+
 ## The feedback that you provide will be used for a project that I’m working on at Carnegie Mellon University and all responses will be kept anonymous. I’ll provide a hard copy of the data, the report, and related sketches. 
+
 ## Questions – 
 ### What is your title, role and background?
 ### Are you familiar with IC3 crime stats?
@@ -65,27 +73,27 @@
 ### Any questions for me?
 ## Thank you for your time.  
 
-# Findings
+## Findings
 
-## Federal Law Enforcement Investigator – Overall, the charts and graphs are really good.  The original report is hard to read an understand and sometimes just contains a list or table of the data without any context.  Could you create a chart that details BEC’s over time with a combination of the last 4 or 5 annual reports?  We don’t have that.  
-## Cyber Fraud Intelligence Analysts – Compared to the original IC3 data, this is much easier to understand and to read.  I’m not a fan of pie graphs but the bar charts seem to really work.  What about more color?  Could you make each line or bar a different color or would you keep everything a common theme of blue?  Just a thought.  
-## Bank Fraud Investigators – This is much easier to analyze and digest.  What about making the charts 3D?  Can you add a heart map?  What about making a one-pager with all of the relevant data such as an infographic?  
+### Federal Law Enforcement Investigator – Overall, the charts and graphs are really good.  The original report is hard to read an understand and sometimes just contains a list or table of the data without any context.  Could you create a chart that details BEC’s over time with a combination of the last 4 or 5 annual reports?  We don’t have that.  
+### Cyber Fraud Intelligence Analysts – Compared to the original IC3 data, this is much easier to understand and to read.  I’m not a fan of pie graphs but the bar charts seem to really work.  What about more color?  Could you make each line or bar a different color or would you keep everything a common theme of blue?  Just a thought.  
+### Bank Fraud Investigators – This is much easier to analyze and digest.  What about making the charts 3D?  Can you add a heart map?  What about making a one-pager with all of the relevant data such as an infographic?  
 
 # Part III
 
-# Audience
+## Audience
 
-## The ICS, or Internet Crime Complaint Center, serves as a resource for law enforcement, financial institutions and the general public.  Accordingly, the target Audience – law enforcement, intelligence analysts, policy makers, law makers, bank investigators, fraud examiners, and the general public interested in financial crimes.  
+### The ICS, or Internet Crime Complaint Center, serves as a resource for law enforcement, financial institutions and the general public.  Accordingly, the target Audience – law enforcement, intelligence analysts, policy makers, law makers, bank investigators, fraud examiners, and the general public interested in financial crimes.  
 
-## The original report published by the IC3 and the FBI is full of great information.  However, the data is cumbersome to read and understand and provides merely and adequate amount of data visualization.  My colleagues and I at the NCFTA (national Cyber Forensics and Training Alliance) track, read, analyze and apply the IC3 data in an effort to curb and curtail cyber enabled crime and work alongside of the IC3. I plan to take this very assignment, and pitch it to the IC3 with the hopes of improving their annual report. I’d love for the IC3 to adopt this format and some of the techniques and tools that I learned in this course.   
+### The original report published by the IC3 and the FBI is full of great information.  However, the data is cumbersome to read and understand and provides merely and adequate amount of data visualization.  My colleagues and I at the NCFTA (national Cyber Forensics and Training Alliance) track, read, analyze and apply the IC3 data in an effort to curb and curtail cyber enabled crime and work alongside of the IC3. I plan to take this very assignment, and pitch it to the IC3 with the hopes of improving their annual report. I’d love for the IC3 to adopt this format and some of the techniques and tools that I learned in this course.   
 
 # Part III Cont.
 
-# Summary
+## Summary
 
-## I basically took all of the data collected by the IC3 that was published in their 2018 annual report and free-texted the data points into a spreadsheet.  I had the build a workable data set and I did this manually.  Tabula would not properly extract the data, so I completed this manually.  One of the charts, “BEC Over Time” was constructed using several years of published data by the IC3.  I built the datasets in Excel and used Datawrapper and a few Excel tools to build  and label the charts. 
+### I basically took all of the data collected by the IC3 that was published in their 2018 annual report and free-texted the data points into a spreadsheet.  I had the build a workable data set and I did this manually.  Tabula would not properly extract the data, so I completed this manually.  One of the charts, “BEC Over Time” was constructed using several years of published data by the IC3.  I built the datasets in Excel and used Datawrapper and a few Excel tools to build  and label the charts. 
 
-## I took the appraoch of "less is more".  I wanted to keep the orignal data but present it in a simple, clean format.  The FBI and the IC3 will not allow for a lot of bells and whistels.  Just the facts.... right?  The charts are simple for a reason - littel left for interpretation, straight forward reporting on the crime statistics.  
+### I took the appraoch of "less is more".  I wanted to keep the orignal data but present it in a simple, clean format.  The FBI and the IC3 will not allow for a lot of bells and whistels.  Just the facts.... right?  The charts are simple for a reason - littel left for interpretation, straight forward reporting on the crime statistics.  
 
 # Sample Charts for the Final Project
 
@@ -93,21 +101,21 @@
 
 <iframe title="IC3 Complaints and Losses by Year" aria-label="Column Chart" id="datawrapper-chart-4KPiM" src="//datawrapper.dwcdn.net/4KPiM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="526"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-# BEC Faud is on the rise and is now the most reported interent crime
+## BEC Faud is on the rise and is now the most reported interent crime
 
-##  Here's my main theme - internet is on the rise and fraudsters use whatever means necessary to perpetrate thier crimes...this is the story that I'm developing.
+###  Here's my main theme - internet is on the rise and fraudsters use whatever means necessary to perpetrate thier crimes...this is the story that I'm developing.
 
 #
 
 <iframe title="BEC Fraud on a Precipitous Climb&amp;nbsp;" aria-label="Interactive line chart" id="datawrapper-chart-kcUgf" src="//datawrapper.dwcdn.net/kcUgf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-# BEC Stats reported to IC3
+## BEC Stats reported to IC3
 
 #
 
 <iframe title="BEC Stats Reported to Law Enforcement" aria-label="Table" id="datawrapper-chart-bBtLi" src="//datawrapper.dwcdn.net/bBtLi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-# Where does the money go?  Follow the money to identify the top beneficiary bank accounts.
+## Where does the money go?  Follow the money to identify the top beneficiary bank accounts.
 
 #
 
