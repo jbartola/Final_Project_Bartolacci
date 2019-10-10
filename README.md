@@ -10,6 +10,8 @@
 
 ### I plan to demonstrate the immense problem with cyber enabled crime, citing relvant facts and figures to bring awareness to the class.  I'll also have a call to action to become more vigilant in every aspect of our lives in order to protect ourselves from cyber enabled crime and fraud.
 
+### Source: IC3 - see below
+
 ### https://pdf.ic3.gov/2018_IC3Report.pdf (data set that is publicly available)
 
 
