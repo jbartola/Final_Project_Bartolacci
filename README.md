@@ -2,7 +2,7 @@
 
 # Part 1
 
-The Cost of Fraud
+# The Cost of Fraud
 
 ## Fraud costs consumers and organizations billions of dollars per year.  The advent of the internet caused an explosion in technology but also caused an explosion with cyber enabled crime.  With each new technology, there will be a nefarious person there to exploit it.  The FBI and The IC3 (Internet Crime Complaint Center) compiles annual data regarding cybercrime.  I'll use the data complied in the 2018 IC3 report to generate data visualizations for this project.
 
@@ -47,7 +47,7 @@ The Cost of Fraud
 ## Approach to identify representatives – in person interviews with federal law enforcement agents and analysts and bank investigators.
 ## Interview – Goals and Questions
 ## Background – IC3 (Internet Crime Complaint Center) collects information regarding cyber enabled crime and began collecting data in 2000.  Cyber enabled or internet crime includes ID theft, SPAM, data breaches and business email compromises (BEC) to name a few.  IC3 provides a method and channel for the public to report cyber enabled crime.  Each year, IC3 publishes an annual report that aggregates and highlights the data provided by the public.  
-## Metrics – IC3 Complain Stats
+## Metrics – IC3 Complaint Stats
 ### Do the participants understand the annual data reported?
 ### What does the data say and mean to them?
 ### What is the interest level of this data of the participants? 
@@ -76,7 +76,8 @@ The Cost of Fraud
 # Audience
 
 ## The ICS, or Internet Crime Complaint Center, serves as a resource for law enforcement, financial institutions and the general public.  Accordingly, the target Audience – law enforcement, intelligence analysts, policy makers, law makers, bank investigators, fraud examiners, and the general public interested in financial crimes.  
-The original report published by the IC3 and the FBI is full of great information.  However, the data is cumbersome to read and understand and provides merely and adequate amount of data visualization.  My colleagues and I at the NCFTA (national Cyber Forensics and Training Alliance) track, read, analyze and apply the IC3 data in an effort to curb and curtail cyber enabled crime and work alongside of the IC3. I plan to take this very assignment, and pitch it to the IC3 with the hopes of improving their annual report. I’d love for the IC3 to adopt this format and some of the techniques and tools that I learned in this course.   
+
+## The original report published by the IC3 and the FBI is full of great information.  However, the data is cumbersome to read and understand and provides merely and adequate amount of data visualization.  My colleagues and I at the NCFTA (national Cyber Forensics and Training Alliance) track, read, analyze and apply the IC3 data in an effort to curb and curtail cyber enabled crime and work alongside of the IC3. I plan to take this very assignment, and pitch it to the IC3 with the hopes of improving their annual report. I’d love for the IC3 to adopt this format and some of the techniques and tools that I learned in this course.   
 
 # Part III Cont.
 
@@ -112,7 +113,7 @@ The original report published by the IC3 and the FBI is full of great informatio
 
 # Call to Action
 
-## What can we do?  Be aware, stay educated, learn the detection, prevention and investigation of cyber enabled crime.
+## What can we do?  Be aware, stay educated, learn the detection, prevention and investigation of cyber enabled crime. I also embeed a link that takes the reader directly to the IC3 site to complete a complaint.  
 
 # Final Project Published via Shorthand
 
