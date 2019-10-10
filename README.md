@@ -116,11 +116,11 @@
 
 <iframe title="BEC Stats Reported to Law Enforcement" aria-label="Table" id="datawrapper-chart-bBtLi" src="//datawrapper.dwcdn.net/bBtLi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-### This chrt is important in that it displays the average dollar amount of the fraudulent wire transfers.  This key piece of data can help bank risk management professionals target these dollar amounts for further scrutiny, risk rate transactions, detect and mitigate fraud, while providing a frictionless customer expereience.  Friction in banking occurs when controls put undue pressure and hurdles on the consumer.  
+### This chart is important in that it displays the average dollar amount of the fraudulent wire transfers.  This key piece of data can help bank risk management professionals target these dollar amounts for further scrutiny, risk rate transactions, detect and mitigate fraud, while providing a frictionless customer experience.  Friction in banking occurs when controls put undue pressure and hurdles on the consumer.  
 
 ## Where does the money go?  Follow the money to identify the top beneficiary bank accounts.
 
-### Law enforcment investigators and bank fraud investigators can use a targeted approach to combat "money mule" or beneficiary accounts.  By identifying the top banks used for fraud, then additional controls can be put in place for detection, investigation and mitigation of cyber enabled fraud and crime at the respective financial institutions.  
+### Law enforcment investigators and bank fraud investigators can use a targeted approach to combat "money mule" or beneficiary accounts.  By identifying the top banks used for fraud, then additional controls can be implemented for detection, investigation and mitigation of cyber enabled fraud and crime at the respective financial institutions.  
 
 #
 
