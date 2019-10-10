@@ -37,12 +37,13 @@
 
 # PART II Final Assignment
 
-## Sample Markup Sketch
+### Sample Markup Sketch
 
-## https://github.com/jbartola/Final_Project_Bartolacci/blob/master/New%20Mockup%201.png
+### https://github.com/jbartola/Final_Project_Bartolacci/blob/master/New%20Mockup%201.png
 
 
 ## User research Protocol
+
 ### Target Audience – law enforcement, intelligence analysts, policy makers, law makers, bank investigators, fraud examiners, and the general public interested in financial crimes.  
 
 ### Approach to identify representatives – in person interviews with federal law enforcement agents and analysts and bank investigators.
