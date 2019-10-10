@@ -1,6 +1,8 @@
 # Final Project Bartolacci
 
-# The Cost of Fraud
+# Part 1
+
+The Cost of Fraud
 
 ## Fraud costs consumers and organizations billions of dollars per year.  The advent of the internet caused an explosion in technology but also caused an explosion with cyber enabled crime.  With each new technology, there will be a nefarious person there to exploit it.  The FBI and The IC3 (Internet Crime Complaint Center) compiles annual data regarding cybercrime.  I'll use the data complied in the 2018 IC3 report to generate data visualizations for this project.
 
@@ -69,6 +71,18 @@
 ## Cyber Fraud Intelligence Analysts – Compared to the original IC3 data, this is much easier to understand and to read.  I’m not a fan of pie graphs but the bar charts seem to really work.  What about more color?  Could you make each line or bar a different color or would you keep everything a common theme of blue?  Just a thought.  
 ## Bank Fraud Investigators – This is much easier to analyze and digest.  What about making the charts 3D?  Can you add a heart map?  What about making a one-pager with all of the relevant data such as an infographic?  
 
+# Part III
+
+# Audience
+
+## The ICS, or Internet Crime Complaint Center, serves as a resource for law enforcement, financial institutions and the general public.  Accordingly, the target Audience – law enforcement, intelligence analysts, policy makers, law makers, bank investigators, fraud examiners, and the general public interested in financial crimes.  
+The original report published by the IC3 and the FBI is full of great information.  However, the data is cumbersome to read and understand and provides merely and adequate amount of data visualization.  My colleagues and I at the NCFTA (national Cyber Forensics and Training Alliance) track, read, analyze and apply the IC3 data in an effort to curb and curtail cyber enabled crime and work alongside of the IC3. I plan to take this very assignment, and pitch it to the IC3 with the hopes of improving their annual report. I’d love for the IC3 to adopt this format and some of the techniques and tools that I learned in this course.   
+
+# Part III Cont.
+
+# Summary
+
+# I basically took all of the data collected by the IC3 that was published in their 2018 annual report and free-texted the data points into a spreadsheet.  I had the build a workable data set and I did this manually.  Tabula would not properly extract the data, so I completed this manually.  One of the charts, “BEC Over Time” was constructed using several years of published data by the IC3.  I built the datasets in Excel and used Datawrapper and a few Excel tools to build  and label the charts. 
 
 # Sample Charts for the Final Project
 
